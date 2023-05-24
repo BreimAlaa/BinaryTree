@@ -12,7 +12,7 @@ This is a Java implementation of a binary tree structure. It provides functions 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/binary-tree.git
+git clone https://github.com/BreimAlaa/BinaryTree.git
 ```
 
 2. Import the BinaryTree library into your Java project.
